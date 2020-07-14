@@ -1,0 +1,10 @@
+kernel: 5
+min_area_threshold: 4000
+max_area_threshold: 80000
+perimeter_threshold: 0.035
+corners_count: 4
+field_threshold: 60
+contour_threshold: 1.5
+dst_threshold: 10
+window: 25
+poly_order: 4
